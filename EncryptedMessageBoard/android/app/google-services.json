@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "218642090323",
+    "firebase_url": "https://map2020-hush.firebaseio.com",
+    "project_id": "map2020-hush",
+    "storage_bucket": "map2020-hush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218642090323:android:db42b448b98182be51f9a6",
+        "android_client_info": {
+          "package_name": "edu.uco.dtrent.map2020.hush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218642090323-9r7dldafsn2e08cddk4c136fjgbqd651.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfCAjBOmsyHSPTIl-QylD8WyrBiLYwbJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218642090323-9r7dldafsn2e08cddk4c136fjgbqd651.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
