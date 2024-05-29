@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "444558687637",
+    "firebase_url": "https://tictactoe-5ce7f.firebaseio.com",
+    "project_id": "tictactoe-5ce7f",
+    "storage_bucket": "tictactoe-5ce7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444558687637:android:b03ba723658a1faa730a9c",
+        "android_client_info": {
+          "package_name": "edu.uco.dtrent2.SWE2.tictac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444558687637-ioqlq71vtufd8s7ha4ocfsp0omttdugq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcX1F0uXft6C-LWxn370IITtZ3Ilapm00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444558687637-ioqlq71vtufd8s7ha4ocfsp0omttdugq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
